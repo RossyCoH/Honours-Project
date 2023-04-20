@@ -1,3 +1,3 @@
 # Honours-Project
-2020/23 Honours Project developing Inventory Managment Solution
+2022/23 Honours Project developing Inventory Managment Prototype using Domain-Driven Design
 
